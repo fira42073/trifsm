@@ -14,7 +14,7 @@ go install github.com/fira42073/trifsm@senpai # stable branch
 
 ## Usage
 
-This is a very young repo, so please refer to [generator/example_test.go](./generator/example_test.go) for now.
+This is a very young repo, so please refer to [examples/](./examples/) for now. More detailed documentation will follow (I guess).
 
 ## Versioning
 
